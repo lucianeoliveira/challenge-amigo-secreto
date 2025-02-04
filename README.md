@@ -1,6 +1,9 @@
 # Challenge do Amigo Secreto
 Este projeto é uma aplicação web simples que permite aos usuários inserir nomes de amigos em uma lista e, em seguida, realizar um sorteio aleatório para determinar quem será o "amigo secreto".
 
+![image](https://github.com/user-attachments/assets/2a09e8dd-526d-4008-8beb-c87ebdfb027e)
+
+
 # 📌 Funcionalidades
 
 Adicionar nomes: Os usuários podem inserir nomes de amigos em um campo de texto e adicioná-los à lista ao clicar no botão "Adicionar".
