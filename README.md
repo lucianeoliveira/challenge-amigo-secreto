@@ -26,7 +26,7 @@ JavaScript
 
 # 🎯 Como Usar
 
-Clone este repositório: git clone https://github.com/lucianeoliveira/challenge-amigo-secreto.git
+Clone este repositório: git clone https://github.com/lucianeosantos/challenge-amigo-secreto.git
 
 Acesse a pasta do projeto: cd challenge-amigo-secreto
 
